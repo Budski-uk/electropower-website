@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 92" role="img" aria-labelledby="title desc">
+  <title id="title">Electropower Engineering</title>
+  <desc id="desc">A blue rotating machine emblem beside the Electropower name</desc>
+  <g transform="translate(4 4)">
+    <circle cx="42" cy="42" r="35" fill="none" stroke="#11a5ed" stroke-width="9" stroke-dasharray="31 9"/>
+    <circle cx="42" cy="42" r="13" fill="#ff5a1f"/>
+    <path d="M42 29V8M42 76V55M29 42H8M76 42H55" stroke="#fff" stroke-width="6"/>
+  </g>
+  <text x="98" y="51" fill="#fff" font-family="Arial Narrow,Arial,sans-serif" font-size="46" font-weight="700" letter-spacing="1">ELECTRO<tspan fill="#11a5ed">POWER</tspan></text>
+  <text x="101" y="75" fill="#aebdc6" font-family="Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="5.5">ENGINEERING</text>
+</svg>
