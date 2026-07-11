@@ -1,11 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 92" role="img" aria-labelledby="title desc">
-  <title id="title">Electropower Engineering</title>
-  <desc id="desc">A blue rotating machine emblem beside the Electropower name</desc>
-  <g transform="translate(4 4)">
-    <circle cx="42" cy="42" r="35" fill="none" stroke="#11a5ed" stroke-width="9" stroke-dasharray="31 9"/>
-    <circle cx="42" cy="42" r="13" fill="#ff5a1f"/>
-    <path d="M42 29V8M42 76V55M29 42H8M76 42H55" stroke="#fff" stroke-width="6"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 650 104" role="img" aria-labelledby="title desc">
+  <title id="title">Electro Power Engineering</title>
+  <desc id="desc">A West Yorkshire mill silhouette with an electric motor rotor beside the Electro Power Engineering name</desc>
+  <g transform="translate(3 5)">
+    <path d="M4 72V49h12V22h11v27h9V36l17-13v13l17-13v13l17-13v49z" fill="#fff"/>
+    <path d="M16 22V5h11v17" fill="#fff"/>
+    <path d="M11 72h82" stroke="#11a5ed" stroke-width="5"/>
+    <circle cx="76" cy="50" r="20" fill="#081a2a" stroke="#fff" stroke-width="5"/>
+    <circle cx="76" cy="50" r="6" fill="#ff5a1f"/>
+    <path d="M76 32v12M76 56v12M58 50h12M82 50h12M63 37l8 9M81 55l8 9M89 37l-8 9M71 55l-8 9" stroke="#11a5ed" stroke-width="3.5"/>
+    <path d="M38 52h8v9h-8zM52 52h8v9h-8z" fill="#081a2a"/>
   </g>
-  <text x="98" y="51" fill="#fff" font-family="Arial Narrow,Arial,sans-serif" font-size="46" font-weight="700" letter-spacing="1">ELECTRO<tspan fill="#11a5ed">POWER</tspan></text>
-  <text x="101" y="75" fill="#aebdc6" font-family="Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="5.5">ENGINEERING</text>
+  <text x="111" y="62" fill="#fff" font-family="Arial Narrow,Arial,sans-serif" font-size="48" font-weight="700" letter-spacing=".5">ELECTRO<tspan fill="#11a5ed">POWER</tspan></text>
+  <path d="M113 73h58M530 73h102" stroke="#ff5a1f" stroke-width="2"/>
+  <text x="184" y="80" fill="#aebdc6" font-family="Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="5.7">ENGINEERING</text>
+  <text x="113" y="98" fill="#718999" font-family="Arial,sans-serif" font-size="8.5" font-weight="700" letter-spacing="2.5">EST. 1994 · WEST YORKSHIRE</text>
 </svg>
