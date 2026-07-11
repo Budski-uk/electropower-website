@@ -36,3 +36,7 @@ footer{background:#05121c;color:#91a2ac;padding:35px 0}.footer-inner{display:fle
 
 .brand{width:285px}.footer-inner img{width:225px}
 @media(max-width:700px){.brand{width:235px}.footer-inner img{width:215px}}
+
+.header-contact{align-self:stretch;background:var(--orange);width:274px;display:flex;flex-direction:column;justify-content:center;padding:7px 16px;gap:1px}.header-contact a{display:flex;align-items:center;gap:9px;color:white;text-decoration:none;min-height:23px;line-height:1.02}.header-contact a:hover strong{text-decoration:underline;text-underline-offset:2px}.header-contact small{display:none}.header-contact strong{display:block;font-family:Manrope,Arial,sans-serif;font-size:.7rem;letter-spacing:.01em;white-space:nowrap}.header-contact .header-email strong{font-size:.6rem}.header-contact img,.header-contact .contact-symbol{width:16px;height:16px;flex:none;display:grid;place-items:center;font-size:.85rem;color:white}
+@media(max-width:1100px){.header-inner{gap:22px}.site-nav{gap:19px}.header-contact{width:238px;padding-inline:12px}.header-contact strong{font-size:.64rem}.header-contact .header-email strong{font-size:.54rem}}
+@media(max-width:950px){.header-contact{display:none}}
