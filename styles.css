@@ -28,3 +28,5 @@ footer{background:#05121c;color:#91a2ac;padding:35px 0}.footer-inner{display:fle
 .photo-credits a{color:#718692}
 
 @media(max-width:700px){.work-gallery{grid-template-columns:1fr}.work-gallery figure{min-height:380px}.work-gallery figure+figure{border-left:0;border-top:4px solid var(--paper)}.workshop-photo{height:430px}}
+
+.service-card ul{padding:0;margin:0;list-style:none}.service-card li{font-size:.78rem;color:var(--muted);line-height:1.45;padding:7px 0 7px 15px;border-top:1px solid #e5e7e7;position:relative}.service-card li:before{content:"";position:absolute;left:0;top:14px;width:5px;height:5px;background:var(--orange);border-radius:50%}.service-card.featured li{color:#b8c7d1;border-color:rgba(255,255,255,.12)}.contact-actions{display:flex;gap:12px;flex-wrap:wrap;align-items:center}.button-outline{border:1px solid rgba(255,255,255,.55);color:white}.button-outline:hover{background:rgba(255,255,255,.1)}.contact-email{display:inline-block;color:white;margin-top:23px;font-size:1.05rem;text-underline-offset:5px}
