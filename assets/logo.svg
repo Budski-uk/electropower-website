@@ -1,17 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 650 104" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 150" role="img" aria-labelledby="title desc">
   <title id="title">Electro Power Engineering</title>
-  <desc id="desc">A West Yorkshire mill silhouette with an electric motor rotor beside the Electro Power Engineering name</desc>
-  <g transform="translate(3 5)">
-    <path d="M4 72V49h12V22h11v27h9V36l17-13v13l17-13v13l17-13v49z" fill="#fff"/>
-    <path d="M16 22V5h11v17" fill="#fff"/>
-    <path d="M11 72h82" stroke="#11a5ed" stroke-width="5"/>
-    <circle cx="76" cy="50" r="20" fill="#081a2a" stroke="#fff" stroke-width="5"/>
-    <circle cx="76" cy="50" r="6" fill="#ff5a1f"/>
-    <path d="M76 32v12M76 56v12M58 50h12M82 50h12M63 37l8 9M81 55l8 9M89 37l-8 9M71 55l-8 9" stroke="#11a5ed" stroke-width="3.5"/>
-    <path d="M38 52h8v9h-8zM52 52h8v9h-8z" fill="#081a2a"/>
+  <desc id="desc">A navy engineering gear crossed by a blue lightning bolt beside the Electro Power Engineering name and Est. 1994</desc>
+  <defs>
+    <linearGradient id="bolt" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0757a6"/><stop offset="1" stop-color="#159de1"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(8 5)">
+    <g fill="#071f44">
+      <circle cx="66" cy="70" r="48"/>
+      <path d="M56 4h20l4 18H52zM56 118h20l4 18H52zM0 60v20l18 4V56zM114 60v20l18 4V56zM17 19l14-14 16 10-25 25zM101 100l14-14 10 16-25 25zM17 121l-14-14 10-16 25 25zM101 40L87 26l16-10 25 25z"/>
+    </g>
+    <circle cx="66" cy="70" r="27" fill="#fff"/>
+    <path d="M93 0 42 63h24l-37 77 72-87H75z" fill="url(#bolt)"/>
   </g>
-  <text x="111" y="62" fill="#fff" font-family="Arial Narrow,Arial,sans-serif" font-size="48" font-weight="700" letter-spacing=".5">ELECTRO<tspan fill="#11a5ed">POWER</tspan></text>
-  <path d="M113 73h58M530 73h102" stroke="#ff5a1f" stroke-width="2"/>
-  <text x="184" y="80" fill="#aebdc6" font-family="Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="5.7">ENGINEERING</text>
-  <text x="113" y="98" fill="#718999" font-family="Arial,sans-serif" font-size="8.5" font-weight="700" letter-spacing="2.5">EST. 1994 · WEST YORKSHIRE</text>
+  <path d="M157 15v119" stroke="#071f44" stroke-width="2"/>
+  <text x="181" y="47" fill="#071f44" font-family="Arial,Helvetica,sans-serif" font-size="37" font-weight="600" letter-spacing="12">ELECTRO</text>
+  <text x="181" y="88" fill="#168ee0" font-family="Arial,Helvetica,sans-serif" font-size="41" font-weight="700" letter-spacing="10">POWER</text>
+  <text x="181" y="119" fill="#071f44" font-family="Arial,Helvetica,sans-serif" font-size="23" font-weight="600" letter-spacing="9">ENGINEERING</text>
+  <path d="M181 137h175M520 137h150" stroke="#168ee0" stroke-width="2"/>
+  <text x="374" y="143" fill="#071f44" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" letter-spacing="4">EST. 1994</text>
 </svg>
