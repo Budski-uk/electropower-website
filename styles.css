@@ -44,3 +44,12 @@ footer{background:#05121c;color:#91a2ac;padding:35px 0}.footer-inner{display:fle
 .site-header{background:rgba(255,255,255,.98);color:var(--navy);border-bottom:1px solid #d9e0e5}.site-nav a{color:var(--navy)}.menu-toggle{color:var(--navy)}.brand{width:310px}.footer-inner img{width:270px;background:white;padding:8px 12px;border-radius:2px}
 @media(max-width:1100px){.brand{width:270px}}
 @media(max-width:700px){.brand{width:250px}}
+
+.company-story{margin-top:30px;border-top:1px solid rgba(255,255,255,.18);border-bottom:1px solid rgba(255,255,255,.18)}
+.company-story summary{display:flex;align-items:center;justify-content:space-between;gap:20px;padding:20px 0;cursor:pointer;list-style:none;color:white;font-size:.74rem;font-weight:700;letter-spacing:.12em;text-transform:uppercase}
+.company-story summary::-webkit-details-marker{display:none}
+.company-story summary span{display:grid;place-items:center;width:28px;height:28px;border:1px solid rgba(255,255,255,.35);border-radius:50%;color:var(--electric);font-size:1.25rem;line-height:1;transition:transform .2s ease}
+.company-story[open] summary span{transform:rotate(45deg)}
+.company-story-content{padding:2px 0 24px;color:#aebdc6;font-size:.9rem}
+.company-story-content p{margin:0 0 17px}
+.company-story-content .story-promise{margin-bottom:0;padding:18px 20px;background:rgba(255,255,255,.06);border-left:3px solid var(--orange);color:white;font-weight:600}
